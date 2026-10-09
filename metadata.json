@@ -1,0 +1,8 @@
+{
+  "name": "Remix SmartWaste AI",
+  "description": "Camera-guided smart waste sorting ecosystem, live collection fleet telemetry, citizen rewards, and municipal operations platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
